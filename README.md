@@ -11,4 +11,5 @@ If you wish to try the search with your own data:
 ## How it works
 
 The database is read in memory and stored per line. A new search corresponds to a generated RegEx pattern tested against each of those lines.
-Groups and sub-groups are scored **arbitrarily** - the 10 best results are displayed in decreasing order. Score calculations can be customized in `ExtractCandidateInfo` from the `clsMatchResults` class. The same Sub also generates necessary information for the syntax highlighting.
+Groups and sub-groups are scored **arbitrarily**. The 10 greatest score are displayed in the `SearchPane` by decreasing order. 
+Score calculations can be customized in `ExtractCandidateInfo` from the `clsMatchResults` class. The same Sub also generates necessary information for the syntax highlighting.
