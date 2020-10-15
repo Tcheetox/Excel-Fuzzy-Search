@@ -1,0 +1,8 @@
+{
+  "Name": "KRE",
+  "Last_Name": "REN",
+  "address":"coucou",
+  "Name2": ["frank", "frank2" ,"dotou"],
+  "fakeProp": "hello mister george",
+  "Name5": ["frank", "frank2" ,"dotou", "frank2" ,"dotou", "frank2" ,"dotou"]
+}

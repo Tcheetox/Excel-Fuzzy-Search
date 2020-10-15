@@ -1,0 +1,15 @@
+{
+  "Name": "KRE",
+  "Last_Name": "REN",
+  "address":"coucou",
+  "recursiveObject":{
+    "Name_addit": "ckssdfsf",
+    "Last_name_addit":"blacksdfj"
+  },
+  "Hungry": "YES",
+  "Thursty": "FALSE",
+  "recursiveObject2":{
+    "Name_addit_2": "nimek",
+    "Last_name_addit_2":"chkrabou"
+  }
+}
